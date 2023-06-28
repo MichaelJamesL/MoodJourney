@@ -1,4 +1,4 @@
-![alt text](logo\9-tp.png)
+![alt text](logo\https://raw.githubusercontent.com/MichaelJamesL/MoodJourney/main/logo/9-tp.png)
 MoodJourney is a Mental health support services in the form of media to store mood tracks to determine the user's mental state
 
 To run MoodJourney :

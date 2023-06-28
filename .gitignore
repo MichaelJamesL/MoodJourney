@@ -1,0 +1,8 @@
+# ignore _pycache_
+__pycache__/
+
+# ignore not important files
+MOOD JOURNEY.zip
+
+#ignore csv
+user.csv

@@ -4,7 +4,7 @@ from streamlit_chat import message
 from PIL import Image
 
 # Setting page title and header
-st.set_page_config(page_title="MoodJourney", page_icon=Image.open("logo/10.png"))
+st.set_page_config(page_title="MoodJourney", page_icon=Image.open("./logo/10.png"))
 st.markdown("<h1 style='text-align: center;'>MoodJourney Chatbot 😬</h1>", unsafe_allow_html=True)
 
 # Set org ID and API key

@@ -86,12 +86,12 @@ def initCam():
         checkEmotion(img)
 
 
-st.set_page_config(page_title="MoodJourney", page_icon=Image.open("logo/10.png"))
+st.set_page_config(page_title="MoodJourney", page_icon=Image.open("./logo/10.png"))
 st.sidebar.empty()
 
 co1, co2, co3 = st.columns([1,1,1])
 with co2 :
-    st.image(Image.open("logo\9-tp.png"), width=300)
+    st.image(Image.open("./logo\9-tp.png"), width=300)
 name = st.text_input(label="What is your name?")
 if name != "" :
     initCam()
